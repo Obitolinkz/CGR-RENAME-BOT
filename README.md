@@ -96,7 +96,7 @@ login - (when password is given) to login to bot
 <img src="https://badgen.net/badge/Skills/python/purple?icon=terminal&labelColor=red"></a>
 <a href="http://t.me/CGRRENAMEBOT"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
 <a href="https://github.com/cutegirlrani"><img src="https://badgen.net/badge/Follow%20on%20/GitHub/80FF00?icon=github&labelColor=black"></a>
-<a href="https://t.me/movie4ubotschannel"><img src="https://img.shields.io/badge/Telegram ID-FF3333.svg?logo=telegram&logoColor=FF3333"></a>
+<a href="https://t.me/movie4ubotschannel"><img src="https://img.shields.io/badge/Telegram-ID-blue.svg?logo=telegram"></a>
 <p align="left">
 </p>
 
