@@ -94,9 +94,9 @@ login - (when password is given) to login to bot
 <img src="https://te.legra.ph/file/8c69330894949de03c317.jpg" width="250" height="350"><br>
 <img src="https://badgen.net/badge/Name/𝗖𝘂𝘁𝗲 𝗴𝗶𝗿𝗹 𝗥𝗮𝗻𝗶 𓃦/FF33FF?icon=awesome&labelColor=0080FF"></a>
 <img src="https://badgen.net/badge/Skills/python/purple?icon=terminal&labelColor=red"></a>
-<a href="https://t.me/cute_girl_rani"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
+<a href="http://t.me/CGRRENAMEBOT"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
 <a href="https://github.com/cutegirlrani"><img src="https://badgen.net/badge/Follow%20on%20/GitHub/80FF00?icon=github&labelColor=black"></a>
-<a href="https://t.me/movie4ubotschannel"><img src="https://img.shields.io/badge/Telegram Channel-FF3333.svg?logo=telegram&logoColor=FF3333"></a>
+<a href="https://t.me/movie4ubotschannel"><img src="https://img.shields.io/badge/Telegram ID-FF3333.svg?logo=telegram&logoColor=FF3333"></a>
 <p align="left">
 </p>
 
